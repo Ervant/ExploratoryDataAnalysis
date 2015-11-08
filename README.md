@@ -1,6 +1,9 @@
 # ExploratoryDataAnalysis
 This is the repo for the course 'Exploratory Data Analysis' taught by Roger D. Peng
- Introduction
+NOTE THAT THE IMAGE FILES ARE IN THE 'ISSUES' SECTION OF THIS REPO. PLEASE CHECK THEM OUT THERE :)
+THE R CODE FOR THE IMAGES ARE IN THE TOP LEVEL DIRECTORY
+ 
+Introduction
 
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
@@ -27,4 +30,4 @@ We will only be using data from the dates 2007-02-01 and 2007-02-02. One alterna
 
 There are 8 files here: four PNG files and four R code files, a total of eight files
 
-PLEASE NOTE THAT THE FILES ARE IN THE 'ISSUES' SECTION OF THIS REPO. PLEASE CHECK THEM OUT THERE :)
+
