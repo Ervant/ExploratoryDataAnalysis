@@ -1,6 +1,8 @@
 # ExploratoryDataAnalysis
 This is the repo for the course 'Exploratory Data Analysis' taught by Roger D. Peng
+
 NOTE THAT THE IMAGE FILES ARE IN THE 'ISSUES' SECTION OF THIS REPO. PLEASE CHECK THEM OUT THERE :)
+
 THE R CODE FOR THE IMAGES ARE IN THE TOP LEVEL DIRECTORY
  
 Introduction
