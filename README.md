@@ -25,4 +25,6 @@ Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It co
 
 We will only be using data from the dates 2007-02-01 and 2007-02-02. One alternative is to read the data from just those dates rather than reading in the entire dataset and subsetting to those dates.
 
-There are 8 files here: four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
+There are 8 files here: four PNG files and four R code files, a total of eight files
+
+PLEASE NOTE THAT THE FILES ARE IN THE 'ISSUES' SECTION OF THIS REPO. PLEASE CHECK THEM OUT THERE :)
